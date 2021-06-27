@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 [![philbucher's GitHub stats](https://github-readme-stats.vercel.app/api?username=philbucher&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -18,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/philbucher/philbucher)](https://badges.pufler.dev) -->
+
