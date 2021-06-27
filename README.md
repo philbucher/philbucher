@@ -1,11 +1,34 @@
 ### Hi there 👋
 
-I am Philipp. I am currently a research assistant at the [Chair of Structural Analysis at the Technical University of Munich](https://www.bgu.tum.de/en/st/mitarbeiterinnen/philipp-bucher/) working on my PhD. In my work I am focussing on the simulation of large scale coupled problems such as the [wind turbines](https://www.linkedin.com/posts/philipp-bucher-0757b9130_windfors-winsent-windenergy-activity-6783401767519469569-Ebed).
+I am Philipp. I am currently working on my PhD at the [Chair of Structural Analysis at the Technical University of Munich](https://www.bgu.tum.de/en/st/mitarbeiterinnen/philipp-bucher/). 
 
-I am using the open source finite element framework [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) for my PhD work, to which I contributed a lot.
+<!--  -->
+
+<!-- In my work I am facing three major challenges.  -->
+
+I am an active developer of the open source finite element framework [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos). Kratos is written in C++, with an extensive Python interface. It is available for Linux, Windows and MacOS and provides support for OpenMP and MPI parallelization.
+
+Besides writing code on a daily basis (check my GitHub stats below), I am involved in the development of the software design of Kratos as a member of the [technical committee](https://github.com/KratosMultiphysics/Kratos/wiki/Management-Structure#technical-committee).
+
+For my research I am using Kratos for the simulation of large scale coupled problems such as [wind turbines](https://www.linkedin.com/posts/philipp-bucher-0757b9130_windfors-winsent-windenergy-activity-6783401767519469569-Ebed).
+
+
+
+<!-- 
+activly involved in the development, and design of the ... Kratos. 
+
+My reasearch involves two major .... First of all I am an active developer of Kratos where I 
+During my reasearch I am actively participating in the development of Kratos and at the same time using it
+
+
+
+
+
+
+During my research I have been developing and using the .
 
 Developing software for numerical simulation in C++ and Python is one of my strengths. I really enjoy the process, including the full cycle with testing and continuous integration as well as the verification and validation of the results.
-
+ -->
 ---
 
 You can also find me also on LinkedIn:
@@ -15,8 +38,6 @@ You can also find me also on LinkedIn:
 </a>
 
 ---
-
-Check out my github stats:
 
 [![philbucher's GitHub stats](https://github-readme-stats.vercel.app/api?username=philbucher&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
