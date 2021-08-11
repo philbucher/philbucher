@@ -31,7 +31,7 @@ Developing software for numerical simulation in C++ and Python is one of my stre
  -->
 ---
 
-You can also find me also on LinkedIn:
+You can also find me on LinkedIn:
 
 <a href="https://de.linkedin.com/in/philipp-bucher-0757b9130">
   <img align="middle" alt="Philipps's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
