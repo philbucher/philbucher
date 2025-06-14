@@ -1,17 +1,23 @@
 ### Hi there 👋
 
-I am Philipp. I am currently working on my PhD at the [Chair of Structural Analysis at the Technical University of Munich](https://www.bgu.tum.de/en/st/mitarbeiterinnen/philipp-bucher/). 
+I am Philipp. Currently I am working as a developer for structural analysis simulations at  [SimScale](https://www.simscale.com/). 
 
-<!--  -->
+I studied mechanical engineering in my bachelor, computational mechanics in my master and got my PhD at the [Chair of Structural Analysis at the Technical University of Munich](https://www.cee.ed.tum.de/st/startseite/) (check out my thesis [here](https://mediatum.ub.tum.de/doc/1714023/qew7wvxqw5zvhoxf71we76970.dissertation_bucher_final.pdf)). 
 
-<!-- In my work I am facing three major challenges.  -->
+During my PhD I developed and used the open source finite element framework [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos). Kratos is written in C++, with an extensive Python interface. It is available for Linux, Windows and MacOS and provides support for OpenMP and MPI parallelization.
 
-I am an active developer of the open source finite element framework [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos). Kratos is written in C++, with an extensive Python interface. It is available for Linux, Windows and MacOS and provides support for OpenMP and MPI parallelization.
+Since then I have gotten into developing with Rust, which I use at work and for smaller personal projects.
+
+
+<!-- 
+
+
+I am an active developer of 
 
 Besides writing code on a daily basis (check my GitHub stats below), I am involved in the development of the software design of Kratos as a member of the [technical committee](https://github.com/KratosMultiphysics/Kratos/wiki/Management-Structure#technical-committee).
 
 For my research I am using Kratos for the simulation of large scale coupled problems such as [wind turbines](https://www.linkedin.com/posts/philipp-bucher-0757b9130_windfors-winsent-windenergy-activity-6783401767519469569-Ebed).
-
+ -->
 
 
 <!-- 
