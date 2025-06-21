@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Philipp, a developer focused on structural analysis simulations (FEA) at [SimScale](https://www.simscale.com/).
+
+I studied **mechanical engineering** (B.Eng.) and **computational mechanics** (M.Sc.), and completed my **PhD** at the Chair of Structural Analysis at the Technical University of Munich — [you can check out my thesis here](https://mediatum.ub.tum.de/doc/1714023/qew7wvxqw5zvhoxf71we76970.dissertation_bucher_final.pdf).
+
+During my PhD, I developed and used the open-source finite element framework [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos). Kratos is written in C++ and has a large Python interface, and uses OpenMP and MPI for parallel computing.
+
+I enjoy building things that last - whether it’s contributing to large simulation frameworks or tinkering on smaller side projects. It is very rewarding for me to see how things grow and mature over time. 
+
+Lately, I've been enjoying working with Rust, both professionally and for personal projects.
+
+<!-- 
+
 I am Philipp. Currently I am working as a developer for structural analysis simulations at  [SimScale](https://www.simscale.com/). 
 
 I studied mechanical engineering in my bachelor, computational mechanics in my master and got my PhD at the [Chair of Structural Analysis at the Technical University of Munich](https://www.cee.ed.tum.de/st/startseite/) (check out my thesis [here](https://mediatum.ub.tum.de/doc/1714023/qew7wvxqw5zvhoxf71we76970.dissertation_bucher_final.pdf)). 
@@ -8,8 +20,6 @@ During my PhD I developed and used the open source finite element framework [Kra
 
 Since then I have gotten into developing with Rust, which I use at work and for smaller personal projects.
 
-
-<!-- 
 
 
 I am an active developer of 
